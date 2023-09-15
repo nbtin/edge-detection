@@ -1,6 +1,6 @@
 # Edge Detection
 
-This repository contains code for edge detection using various filters such as Prewitt, Sobel, Laplace, and Canny. All of these filters are implemented from scratch using the C++ OpenCV library.
+This repository contains code for edge detection using various filters such as **Prewitt**, **Sobel**, **Laplace**, and **Canny**. All of these filters are implemented from scratch using the C++ OpenCV library.
 
 ## Dependencies
 
