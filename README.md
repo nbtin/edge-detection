@@ -16,7 +16,7 @@ This repository contains code for edge detection using various filters such as *
 
 ## Usage
 
-1. Download the executable file from the Releases page.
+1. Download the executable file from the [Releases page](https://github.com/nbtin/edge-detection/releases).
 2. Download the dll files from the OpenCV library and place them in the same directory as the executable file. 
     
     If you can not find the dll files, you can download them from [here](https://drive.google.com/drive/folders/1B0Sp3VyLvApH-LjP5NbuXux9ckwSwYE9).
