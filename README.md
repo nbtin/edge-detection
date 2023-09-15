@@ -18,7 +18,7 @@ This repository contains code for edge detection using various filters such as P
 
 1. Download the executable file from the Releases page.
 2. Download the dll files from the OpenCV library and place them in the same directory as the executable file.
-3. Run the executable file from the command line with the `help` flag to see the usage instructions.
+3. Run the executable file from the command line with the `help` flag to see the usage instructions. Just replace the exe filename with the one you downloaded from my Releases page.
    <img src="imgs/usage.png">
 
 ## Examples
@@ -32,6 +32,7 @@ Here are some examples of edge detection using different filters for the [Lenna]
 </p>
 
 #### **1. Sobel Filter for detecting Vertical Edges & Horizontal Edges**
+
 <div class="row">
   <div class="column">
     <img src="imgs/demo/Sobel3_doc.png" width="49%">
@@ -40,6 +41,7 @@ Here are some examples of edge detection using different filters for the [Lenna]
 </div>
 
 #### **2. Prewitt Filter for detecting Vertical Edges & Horizontal Edges**
+
 <div class="row">
   <div class="column">
     <img src="imgs/demo/Prewitt3_doc.png" width="49%">
@@ -48,6 +50,7 @@ Here are some examples of edge detection using different filters for the [Lenna]
 </div>
 
 #### **3. Laplace Filter & Canny Filter**
+
 <div class="row">
   <div class="column">
     <img src="imgs/demo/Laplace3.png" width="49%">
@@ -56,6 +59,7 @@ Here are some examples of edge detection using different filters for the [Lenna]
 </div>
 
 #### **4. My Implemented Canny vs OpenCV Canny**
+
 <div class="row">
   <div class="column">
     <img src="imgs/demo/Canny3.png" width="49%">
