@@ -5,7 +5,7 @@ This repository contains code for edge detection using various filters such as P
 ## Dependencies
 
 - Visual Studio 2019 or later.
-- OpenCV 4.5.2 or later.
+- OpenCV 4.7.0 or later.
 
 ## Installation
 
@@ -17,8 +17,11 @@ This repository contains code for edge detection using various filters such as P
 ## Usage
 
 1. Download the executable file from the Releases page.
-2. Download the dll files from the OpenCV library and place them in the same directory as the executable file.
+2. Download the dll files from the OpenCV library and place them in the same directory as the executable file. 
+    
+    If you can not find the dll files, you can download them from [here](https://drive.google.com/drive/folders/1B0Sp3VyLvApH-LjP5NbuXux9ckwSwYE9).
 3. Run the executable file from the command line with the `help` flag to see the usage instructions. Just replace the exe filename with the one you downloaded from my Releases page.
+
    <img src="imgs/usage.png">
 
 ## Examples
